@@ -2,7 +2,7 @@
 layout: post
 title: "Understanding Partial Reachability in the Internet Core"
 date: 2026-09-30
-paper_authors: "A. Baltra, R. Saluja, Y. Pradkin, J. Heidemann"
+paper_authors: "G. Baltra, T. Saluja, Y. Pradkin, J. Heidemann"
 paper_venue: "NINeS 2026"
 paper_url: "https://2026.nines-conference.org/papers/p004-Baltra.pdf"
 week: 2
