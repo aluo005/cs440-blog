@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Raha: A General Tool to Analyze WAN Degradation"
-date: 2026-10-05
+date: 2026-10-06
 paper_authors: "B. Arzani, S. Taheri, P. Namyar, R. Beckett, S. K. R. Kakarla, E. Jalilipour"
 paper_venue: "ACM SIGCOMM 2025"
 paper_url: "https://dl.acm.org/doi/epdf/10.1145/3718958.3754348"
-week: 3
+week: 2
 tags: [wan, network-degradation, failures, traffic-engineering]
 ---
 
