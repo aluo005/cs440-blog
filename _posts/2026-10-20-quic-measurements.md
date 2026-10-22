@@ -5,7 +5,7 @@ date: 2026-10-19
 paper_authors: "J. Mücke, M. Nawrocki, R. Hiesgen, P. Sattler, J. Zirngibl, G. Carle, J. Luxemburk, T. C. Schmidt, M. Wählisch"
 paper_venue: "ACM CoNEXT 2025"
 paper_url: "https://dl.acm.org/doi/pdf/10.1145/3768988"
-week: 5
+week: 4
 tags: [quic, passive-measurement, network-telemetry, internet-infrastructure]
 ---
 

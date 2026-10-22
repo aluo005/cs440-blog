@@ -5,7 +5,7 @@ date: 2026-10-21
 paper_authors: "D. Straussman, I. Keslassy, A. Shpiner, L. Liss"
 paper_venue: "NINeS 2026"
 paper_url: "https://2026.nines-conference.org/papers/p019-Straussman.pdf"
-week: 6
+week: 5
 tags: [datacenter-networks, transport-protocols, congestion-control, packet-loss, ai-training]
 ---
 
